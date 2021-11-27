@@ -1,0 +1,28 @@
+{
+  "name": "mate-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emadridm/mate-mail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emadridm/mate-mail/issues"
+  },
+  "homepage": "https://github.com/emadridm/mate-mail#readme",
+  "dependencies": {
+    "ews-javascript-api": "^0.10.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
